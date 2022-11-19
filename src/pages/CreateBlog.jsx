@@ -1,5 +1,5 @@
 import React from "react";
-import BlogCard from "../components/BlogCard";
+import BlogForm from "../components/BlogForm";
 import Layout from "../components/Layout";
 
 const CreateBlog = () => {
