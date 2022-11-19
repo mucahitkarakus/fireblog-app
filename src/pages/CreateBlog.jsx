@@ -1,6 +1,5 @@
 import React from "react";
-import BlogForm from "../components/BlogForm";
-import Layout from "../components/Layout";
+import {BlogForm, Layout} from "../components";
 
 const CreateBlog = () => {
   return (
